@@ -1,5 +1,3 @@
-#
-RECIPE SITE
+# RECIPE SITE
 
-##
-learning how to use html and markdown
+## learning how to use html and markdown
